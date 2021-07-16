@@ -1,3 +1,6 @@
 # Identificar-a-localizacao-de-numero-de-celular
 
-Criei esse projeto com objetivo de identificar um número de celular, imprimir formatado, operadora identificada, e como extrair quantos telefones que tiver numa mensagem.
+Algoritmo que identifica a operadora e o número de celular, qual região pertence e imprime formatado.
+E adicionei método que extraia quantos telefones existirem numa mensagem impressa.
+
+![](https://github.com/Dsaamorim/Identificar-a-localizacao-de-numero-de-celular/blob/main/Identificador%20de%20celular.png)
